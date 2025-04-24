@@ -1,3 +1,7 @@
 # hello_world.py
-name = input("Masukkan nama Anda: ")
-print(f"Hello, {name}!")
+
+# Tambahkan input pengguna untuk mendapatkan nama
+nama = input("Masukkan nama Anda: ")
+
+# Menampilkan pesan dengan nama yang dimasukkan oleh pengguna
+print(f"Hello, {nama}!")
